@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Novent",
+    "slug": "novent-ios",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "bundleIdentifier": "com.novent.app",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.novent.app"
+    }
+  }
+}
